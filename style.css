@@ -30,6 +30,7 @@ section {
 
 .gallery-img {
   width: 100%;
+  padding-left: 13px;
 }
 
 #gallery .row > * {
